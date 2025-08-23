@@ -85,3 +85,9 @@
 ---
 
 ⭐ **"Consistency + Problem Solving = Growth"**
+
+
+---
+
+
+✨ **"Thank you for visiting my GitHub profile. Wishing you continued success in all your projects and coding journey!"**
