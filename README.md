@@ -4,7 +4,7 @@
 <h3 align="center">
   🧩 <b>Problem Solver</b> &nbsp;|&nbsp; 
   🌱 <b>Learning Full-Stack Development</b> &nbsp;|&nbsp; 
-  🧠 <a href="https://github.com/MonuYadav/leetcode-problem-solutions" target="_blank"><b>LeetCode-Problem-Solutions Explorer</b></a>
+  🧠 <a href="https://github.com/monuydv108/LeetCode-Problem-Solutions" target="_blank"><b>LeetCode-Problem-Solutions Explorer</b></a>
 </h3>
 
 ---
