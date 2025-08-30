@@ -4,7 +4,7 @@
 <h3 align="center">
   🧩 <b>Problem Solver</b> &nbsp;|&nbsp; 
   🌱 <b>Learning Full-Stack Development</b> &nbsp;|&nbsp; 
-  🧠 <b>LeetCode-DSA-Solutions Explorer</b>
+  🧠 <b>LeetCode-Problem-Solutions Explorer</b>
 </h3>
 
 ---
